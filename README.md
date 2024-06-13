@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @groovyjarod
-- 👀 I’m interested in League of Legends, Longboarding, EDM, Raves
-- 🌱 I’m currently learning C++, Javascript, web development, Linux administration, Networking
-- 💞️ I’m looking to collaborate on Web development
-- 📫 How to reach me instagram.com/groovyjarod
-
-<!---
-groovyjarod/groovyjarod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Jarod Day. I'm a Full-Stack Web Developer with a Bachelors of Science in Computer Science from Utah Valley University.
+I work with a variety of coding languages; particularly with React.js and its respective associated frameworks and technologies.
+My most recent work can be seen at https://daydentaldds.com.
